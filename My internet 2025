@@ -1,3 +1,7 @@
-print("rithma search history")
+print("How are you today?")
 
-print
+if respond == yes
+print("i'm good, thank you.")
+
+if respond == no
+print("i'm not okay, just leave me alone!")
